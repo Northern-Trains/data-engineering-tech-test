@@ -1,0 +1,15 @@
+fleet_id,family,class,type,top_speed_mph,top_speed_kmh,number_in_fleet,number_of_carriages,build_date_range_start,build_date_range_end
+1,Sprinter,150/1,DMU,75,120,8,3,1984,1987
+2,Sprinter,150/2,DMU,75,120,66,2,1985,1987
+3,Sprinter,155 Super Sprinter,DMU,75,120,7,2,1987,1988
+4,Sprinter,156 Super Sprinter,DMU,75,120,67,2,1987,1989
+5,Sprinter,158 Express Sprinter,DMU,90,145,45,2,1990,1992
+6,Sprinter,158 Express Sprinter,DMU,90,145,8,3,1990,1992
+7,Bombardier Turbostar,170,DMU,100,160,16,3,2003,2005
+8,CAF Civity,195,DMU,100,160,25,2,2017,2022
+9,CAF Civity,195,DMU,100,160,33,3,2017,2022
+10,Hunslet Transportation Projects,323,EMU,90,145,34,3,1992,1995
+11,CAF Civity,331,EMU,100,160,31,3,2017,2020
+12,CAF Civity,331,EMU,100,160,12,4,2017,2020
+13,CAF/Siemens Transportation Systems,333,EMU,100,160,16,3,2000,2003
+14,BR Second Generation MKIII,769 Flex,BMU,100,160,8,4,1987,1988
